@@ -79,7 +79,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
 ## Thanks To
-* [`Master Elbarto`](https://github.com/elbarto)
+* [`Master Elbarto`](https://github.com/elbarto2m)
 
 ```Thanks to all who have participated in the development of this script```
 
