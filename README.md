@@ -1,12 +1,12 @@
 <p align="center">
-	<img src="https://telegra.ph/file/094abb98c63d1fbac703e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://th.bing.com/th/id/OIP.bXXcwv3VB9IYXd5FU0s-eAAAAA?w=204&h=159&c=7&r=0&o=5&pid=1.7">
 </p>
-<h1 align="center">THE_JO_BOT</h1>
+<h1 align="center">THE_ELBARTO_BOT</h1>
 
 Script WhatsApp Bot Multi Device
 
 # CATATAN ( NOTE )
-This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
+This Script is for everyone remember just give credit to *elbarto* !
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
@@ -32,7 +32,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git https://github.com/THEJO307/jo-private
+git https://github.com/elbarto2m/bug-bot
 cd jo-private
 npm install
 ```
@@ -79,17 +79,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
 ## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`DikaArdnt`](https://github.com/DikaArdnt)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Faiz`](https://github.com/FaizBastomi)
-* [`Gimenz`](https://github.com/Gimenz)
-* [`rayy`](https://github.com/rayyreall)
-* [`Fatih Arridho`](https://github.com/FatihArridho)
-* [`zhwzein`](https://github.com/zhwzein)
-* [`CAF-ID`](https://github.com/CAF-ID)
-* [`bintang`](https://github.com/Bintangp02)
+* [`Master Elbarto`](https://github.com/elbarto)
 
 ```Thanks to all who have participated in the development of this script```
 
@@ -97,6 +87,6 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support DikaArdnt
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
+* [`Paypal`](https://www.paypal.me/)
+* [`Saweria`](https://saweria.co/)
 # botmdjo
