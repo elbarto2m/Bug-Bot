@@ -86,7 +86,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
-Support DikaArdnt
+Support us!
 * [`Paypal`](https://www.paypal.me/)
 * [`Saweria`](https://saweria.co/)
-# botmdjo
+# botmdbarto
